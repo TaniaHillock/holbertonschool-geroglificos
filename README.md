@@ -2,7 +2,8 @@
 
 This prototype is an implementation of the printf standard function and variadic function.
 
-Project about our own function _printf that produces output according to a format. Pair programming by Natalia Heredia and Tania Cauich.
+Project about our own function _printf that produces output according to a format. Pair programming by Natalia Heredia and Tania Cauich. ![1231](https://user-images.githubusercontent.com/91100868/228927568-61b07354-6cef-456a-9ee4-739edfb41450.gif)
+
 
 # What is printf? ![ezgif-1-db651eac12](https://user-images.githubusercontent.com/91100868/228925169-3cd47e12-d3d7-4a50-9a18-5769c0188807.gif)
 
