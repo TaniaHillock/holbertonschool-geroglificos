@@ -6,7 +6,7 @@
  *
  * Return: Length of th numbers in decimal
  **/
-int print_integer(va_list list)
+int print_int(va_list list)
 {
 	char *p_buff;
 	int size;
