@@ -22,7 +22,7 @@ int print_int(va_list arguments, char *buf, unsigned int ibuf)
 	}
 	else
 	{
-	int_in = int_input;
+		int_in = int_input;
 	}
 	
 	int_temp = int_in;
