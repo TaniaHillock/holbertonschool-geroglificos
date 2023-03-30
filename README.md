@@ -10,6 +10,8 @@ It writes the C string pointed by format to the standard output (stdout).
 
 It allows us to print any argument given to the standard output or terminal. We can print any combinations of strings, intergers, and other different data types.
 
+![IMG_1620](https://user-images.githubusercontent.com/91100868/228927005-81f2afb0-bc8a-4431-957d-1d8454e09cea.jpg)
+
 # Conversion specifiers ![ezgif-1-f465d2a2b7](https://user-images.githubusercontent.com/91100868/228925500-637f993a-6b4d-4509-953a-a507d3230e71.gif)
 
 Characters that specify the type of conversion to be applied.
