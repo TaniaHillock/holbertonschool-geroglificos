@@ -4,8 +4,7 @@
 #include <stdarg.h>
 #include <unistd.h>
 #include <stdlib.h>
-#include <stdio.h>
-#include <limits.h>
+
 /**
  * struct print - struct for printer functions
  * @type_arg: identifier
