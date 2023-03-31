@@ -1,1 +1,0 @@
-Solo un archivo creado para ver si se inicializó git
