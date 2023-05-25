@@ -1,6 +1,6 @@
 # holbertonschool-printf ![10120](https://user-images.githubusercontent.com/91100868/228923685-2259c233-5248-49a5-88e7-30aee21532be.gif)
 
-This prototype is an implementation of the printf standard function and variadic function.
+Thiss prototype is an implementation of the printf standard function and variadic function.
 
 Project about our own function _printf that produces output according to a format. Pair programming by Natalia Heredia and Tania Cauich. ![1231](https://user-images.githubusercontent.com/91100868/228927568-61b07354-6cef-456a-9ee4-739edfb41450.gif)
 
